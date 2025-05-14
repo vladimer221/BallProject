@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallContratcs", "BallContratcs\BallContratcs.csproj", "{26AF44BA-F11C-4F69-9815-5F7218D3E779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallTests", "BallTests\BallTests.csproj", "{18708BC0-17A1-4F6D-98FD-CECE1BDE3D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallBusinessLogic", "BallBusinessLogic\BallBusinessLogic.csproj", "{42EEABA6-5F1B-4552-8DDF-9974A2B89BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AF44BA-F11C-4F69-9815-5F7218D3E779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AF44BA-F11C-4F69-9815-5F7218D3E779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AF44BA-F11C-4F69-9815-5F7218D3E779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AF44BA-F11C-4F69-9815-5F7218D3E779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18708BC0-17A1-4F6D-98FD-CECE1BDE3D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18708BC0-17A1-4F6D-98FD-CECE1BDE3D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18708BC0-17A1-4F6D-98FD-CECE1BDE3D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18708BC0-17A1-4F6D-98FD-CECE1BDE3D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EEABA6-5F1B-4552-8DDF-9974A2B89BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EEABA6-5F1B-4552-8DDF-9974A2B89BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EEABA6-5F1B-4552-8DDF-9974A2B89BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EEABA6-5F1B-4552-8DDF-9974A2B89BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
